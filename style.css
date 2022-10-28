@@ -1,0 +1,29 @@
+.navbar-brand{
+    font-weight: bolder;
+}
+
+body{
+    background-attachment: local;
+    background-color: darkgreen;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.judul-blablabla{
+    color: aquamarine;
+}
+
+.tombol-pencet{
+    background-color: gold;
+}
+
+.bodi-web{
+    background-attachment: local;
+    background-image: url('background2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bodi-table {
+    background-color: darkcyan;
+}
